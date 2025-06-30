@@ -1,4 +1,5 @@
 Jeevan
-Batch:10
 AIML
 Amity university
+
+ECE
