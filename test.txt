@@ -2,4 +2,3 @@ Jeevan
 AIML
 Amity university
 Batch:10`
-ECE
