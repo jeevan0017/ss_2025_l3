@@ -1,7 +1,7 @@
 Jeevan
 AIML
-Amity university
-Batch:10
+Ajjampurauniversity
+Batch:11
 topic:source code
 text extension is txt
 fot c is.c`
