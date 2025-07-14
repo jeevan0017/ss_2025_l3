@@ -2,4 +2,6 @@ Jeevan
 AIML
 Amity university
 Batch:10
-topic:source code`
+topic:source code
+text extension is txt
+fot c is.c`
