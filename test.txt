@@ -1,6 +1,6 @@
 Jeevan
 AIML
-Amity university
+Amityuniversity
 Batch:10
 topic:source code
 text extension is txt
