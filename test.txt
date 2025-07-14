@@ -1,8 +1,7 @@
 Jeevan
 AIML
-Ajjampurauniversity
-Batch:12
-Amityuniversity
+Batch:10
+Amity university
 Batch:11
 topic:source code
 text extension is txt
